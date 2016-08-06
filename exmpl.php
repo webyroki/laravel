@@ -5,3 +5,4 @@ function nameShow(){
 }
 
 $fun = 'nameShow';
+$fun();
